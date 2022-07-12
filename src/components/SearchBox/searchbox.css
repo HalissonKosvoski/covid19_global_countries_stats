@@ -1,0 +1,7 @@
+.search{
+    margin-bottom: 1rem;
+    font-size: 8mm;
+
+    border-radius: 5px;
+    transition: all 1s ease-in-out;
+}
